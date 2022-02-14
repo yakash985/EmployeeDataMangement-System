@@ -1,0 +1,2 @@
+INSERT INTO Employee(employee_id,employee_name,employee_city,phone_no,email) VALUES (100001,'Akash Yadav','Mumbai','9768919959','aky@gmail.com')
+INSERT INTO Employee(employee_id,employee_name,employee_city,phone_no,email) VALUES (100002,'Ravi Patil','Delhi','9768282879','ravipatil@gmail.com')
